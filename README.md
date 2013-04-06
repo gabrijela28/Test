@@ -1,6 +1,6 @@
 Test
 ====
-mkdir ~/Hello-World
+$mkdir ~/Hello-World
 
 
 cd ~/Hello-World
